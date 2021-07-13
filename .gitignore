@@ -11,3 +11,5 @@
 /Graph.Tests/obj
 /SubtitleTimeshift/obj
 /SubtitleTimeshift.Tests/obj
+bin/
+obj/
